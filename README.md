@@ -17,3 +17,4 @@ Once initialized, you can deploy the Next.js example with just a single command:
 ```shell
 $ now
 ```
+# next-js-jwt-test
